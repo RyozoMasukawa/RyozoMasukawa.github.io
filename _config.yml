@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryozo Masukawa"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Ryozo Masukawa"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://ryozomasukawa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RyozoMasukawa/RyozoMasukawa.github.io"
-teaser                   : "visa_img.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "academicpages/academicpages.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -27,7 +27,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    appid                : 
+    appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               : Ryozo Masukawa
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,26 +80,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryozo André Leon Masukawa"
-  avatar           : "visa_img.jpg"
-  bio              : "Master's Student at UC Irvine ICS"
-  location         : "Tokyo"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : 
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     : 
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "ryozodesert"
+  facebook         :
   foursquare       :
-  github           : "RyozoMasukawa"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "alg_0603_ryozo_masukawa"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "DDNfYHjVyHBUL4J"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

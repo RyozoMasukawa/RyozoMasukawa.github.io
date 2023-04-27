@@ -82,24 +82,24 @@ analytics:
 author:
   name             : "Ryozo André Leon Masukawa"
   avatar           : "visa_img.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Master's Student at UC Irvine ICS"
+  location         : "Tokyo"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/ryozodesert/"
+  facebook         : "ryozodesert"
   foursquare       :
   github           : "RyozoMasukawa"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/alg_0603_ryozo_masukawa/"
+  instagram        : "alg_0603_ryozo_masukawa"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "DDNfYHjVyHBUL4J"
   vine             :
   weibo            :
   xing             :

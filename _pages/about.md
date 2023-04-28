@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Ryozo Masukawa enrolling in UCI MS in CS from September, 2023!
+Hello! My name is Ryozo Masukawa and I will be enrolling in the UCI MS in Computer Science program starting in September 2023!
 
-Since I am considering to proceed into PhD, I am seeking to have machine learning research opportunity during my graduate school life!
+I am interested in pursuing a PhD and am hoping to gain research experience in machine learning during my time in graduate school. If you believe I would be a good fit for a research assistant position in your lab, please don't hesitate to contact me at [ryozomasukawa0209@gmail.com](ryozomasukawa0209@gmail.com).
 
-If you kindly consider me as a good candidate for a research assistant at your lab, please contact me. My email address is [ryozomasukawa0209@gmail.com](ryozomasukawa0209@gmail.com)!
-
-I am interested in Machine Learning, especially RL, LLMs, GAN, Diffusion Models.
+My primary interests within machine learning are reinforcement learning, language models, generative adversarial networks, and diffusion models.
 
 This page is powered by [academicpages](https://github.com/academicpages/academicpages.github.io)

@@ -16,4 +16,4 @@ If you kindly consider me as a good candidate for a research assistant at your l
 
 I am interested in Machine Learning, especially RL, LLMs, GAN, Diffusion Models.
 
-This page is powered by [this page](https://github.com/academicpages/academicpages.github.io)
+This page is powered by [academicpages](https://github.com/academicpages/academicpages.github.io)

@@ -10,7 +10,9 @@ redirect_from:
 
 Hello! I am Ryozo Masukawa enrolling in UCI MS in CS from September, 2023!
 
-I am considering to proceed into PhD
+Since I am considering to proceed into PhD, I am seeking to have machine learning research opportunity during my graduate school life!
+
+If you kindly consider me as a good candidate for a research assistant at your lab, please contact me!
 
 I am interested in Machine Learning, especially RL, LLMs, GAN, Diffusion Models.
 

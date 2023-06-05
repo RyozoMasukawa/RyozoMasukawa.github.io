@@ -8,4 +8,4 @@ venue: 'The 37th Annual Conference of the Japanese Society for Artificial Intell
 paperurl: 'https://confit.atlas.jp/guide/event/jsai2023/subject/3D5-GS-2-02/date?cryptoId='
 ---
 
-[Download paper here](http://ryozomasukawa.github.io/files/TODO.pdf)
+[Download paper here](http://ryozomasukawa.github.io/files/3D5-GS-2-02.pdf)

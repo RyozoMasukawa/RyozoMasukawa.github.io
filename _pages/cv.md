@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV from [here](https://ryozomasukawa.github.io/files/cv.pdf)
+You can download my CV from [here](https://ryozomasukawa.github.io/files/Resume_2023.pdf)

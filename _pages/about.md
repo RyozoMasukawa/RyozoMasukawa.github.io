@@ -12,6 +12,6 @@ Hello! My name is Ryozo Masukawa and I will be enrolling in the UCI MS in Comput
 
 I am interested in pursuing a PhD and am hoping to gain machine learning research experience during my time in graduate school.
 
-My primary interests within machine learning are reinforcement learning, Brain-inspired hyperdimensonal computing.
+My primary interests within machine learning are reinforcement learning that uses Brain-inspired hyperdimensonal computing (HDC).
 
 Powered by [academicpages](https://github.com/academicpages/academicpages.github.io)

@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Ryozo Masukawa, and I am currently a first-year UCI MS in Computer Science student.
+Currently embarking on my journey as a first-year student in the esteemed UCI MS in Computer Science program, I'm passionately delving into the realms of technology and innovation.
 
-I am interested in pursuing a Ph.D. and hope to gain machine learning research experience during my time in graduate school.
+Exciting news awaits as I gear up to transition into a Ph.D. program at UC Irvine's BIASLab, where I'll have the privilege of working alongside Professor Mohsen Imani starting fall 2024.
 
-My primary research interest lies in the harmonization of brain-inspired hyperdimensional computing (HDC) and cutting-edge machine learning models.
+My research pursuits are driven by a profound interest in merging the intricacies of brain-inspired hyperdimensional computing (HDC) with the latest advancements in machine learning models. It's a fascinating exploration that promises to unveil groundbreaking insights and transformative solutions.
+
+Looking forward to engaging in meaningful discussions and collaborative endeavors within our shared sphere of expertise.
 
 Powered by [academicpages](https://github.com/academicpages/academicpages.github.io)
